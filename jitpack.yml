@@ -1,3 +1,3 @@
 install:
-  - FILE="-Dfile=mtk-client-rtc-0.1.aar"
-  - mvn install:install-file $FILE -DgroupId=com.github.methinksBot -DartifactId=anndroid-mtk-client-rtc -Dversion=0.1 -Dpackaging=aar -DpomFile=mtk-client-rtc-0.1.pom
+  - FILE="-Dfile=mtk-client-rtc-0.2.aar"
+  - mvn install:install-file $FILE -DgroupId=com.github.methinksBot -DartifactId=anndroid-mtk-client-rtc -Dversion=0.2 -Dpackaging=aar -DpomFile=mtk-client-rtc-0.2.pom

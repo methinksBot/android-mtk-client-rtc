@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.methinksBot</groupId>
   <artifactId>mtk-client-rtc</artifactId>
-  <version>0.1</version>
+  <version>0.2</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -51,7 +51,7 @@
     <dependency>
       <groupId>com.github.methinksBot</groupId>
       <artifactId>android-mtk-common</artifactId>
-      <version>0.7</version>
+      <version>0.9</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
